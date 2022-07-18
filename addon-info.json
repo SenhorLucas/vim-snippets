@@ -1,9 +1,9 @@
 {
-  "name" : "snipmate-snippets",
+  "name" : "vim-snippets",
   "author" : "community",
-  "maintainer" : "honza @ github & others",
-  "repository" : {"type": "git", "url": "git://github.com/honza/snipmate-snippets.git"},
+  "maintainer" : "SenhorLucas @ github",
+  "repository" : {"type": "git", "url": "git://github.com/SenhorLucas/vim-snippets.git"},
   "dependencies" : {
   },
-  "description" : "community driven set of snippets for snipmate"
+  "description" : "My own fork `honza/vim-snippets`"
 }
